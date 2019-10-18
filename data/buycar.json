@@ -1,0 +1,25 @@
+{
+	"list":[
+		{
+			"img":"./data/images/constr1.webp",
+			"title":"唯品自营&nbsp;|&nbsp;【美白补水双重功效】水感透白雪颜亮肤畅享",
+			"title1":"唯品会好货精选",
+			"title2":"均码",
+			"title3":"唯品快抢商品",
+			"money":63,
+			"money1":"￥584",
+			"num":2
+		},
+		{
+			"img":"./data/images/constr2.webp",
+			"title":"唯品自营&nbsp;|&nbsp;【美白补水双重功效】水感透白雪颜亮肤畅享",
+			"title1":"唯品会好货精选",
+			"title2":"均码",
+			"title3":"唯品快抢商品",
+			"money":63,
+			"money1":"￥584",
+			"num":1
+		}
+	],
+	"money":""
+}
